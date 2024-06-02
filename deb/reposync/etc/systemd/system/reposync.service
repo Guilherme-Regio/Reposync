@@ -1,0 +1,10 @@
+[Unit]
+Description=Sincronismo de repositorio
+
+[Service]
+ExecStart=/var/scripts_rd/rotinas/reposync 1
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target

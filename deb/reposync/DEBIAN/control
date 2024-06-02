@@ -1,0 +1,8 @@
+Package: reposync
+Version: 2.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: AssetTeam <asset@rd.com.br>
+Description: Ferramenta de sincronizacao de repositorios robusta entre servidores e clientes
